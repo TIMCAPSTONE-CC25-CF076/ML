@@ -5,5 +5,13 @@ Machine Learning models can be used to inform a content-based filtering approach
 ## Method
 
 ## Tools
+- Python
+- Sklearn
+- Math
+- TensorFlow
+- NumPy
+- Pandas
+- Matplotlib
+- Google Colab
 ## Dataset
 ## How to Recommend
