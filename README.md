@@ -29,3 +29,24 @@ In addition, we also created a mission dataset containing daily tasks that stude
 
 [Dataset Misi](https://docs.google.com/spreadsheets/d/1CapDuMNvtWG-Qnjn5O-e-Lun1x81o5knV9HNdCMUnjA/edit?gid=988267510#gid=988267510)
 ## How to Recommend
+## Setup Environment
+Proyek ini menggunakan IDE Google Colaboratory (Google Colab). Pastikan juga untuk menginstal requirements.txt sebelum menjalankan notebook.ipnby.
+
+Selain itu, bisa dijalankan dengan virtual environment menggunakan conda
+```
+conda crate --name dropout python=3.9
+conda activate dropout
+pip install requirements.txt
+jupyter-notebook
+```
+
+bisa menggunakan pipenv
+
+```
+mkdir dropout
+cd dropout
+pipenv install
+pipenv shell
+pip install requirements.txt
+jupyter-notebook
+```
