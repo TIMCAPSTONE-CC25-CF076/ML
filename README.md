@@ -30,9 +30,9 @@ In addition, we also created a mission dataset containing daily tasks that stude
 [Dataset Misi](https://docs.google.com/spreadsheets/d/1CapDuMNvtWG-Qnjn5O-e-Lun1x81o5knV9HNdCMUnjA/edit?gid=988267510#gid=988267510)
 ## How to Recommend
 ## Setup Environment
-Proyek ini menggunakan IDE Google Colaboratory (Google Colab). Pastikan juga untuk menginstal requirements.txt sebelum menjalankan notebook.ipnby.
+This project uses the Google Colaboratory (Google Colab) IDE. Make sure to install the **requirements.txt** dependencies before running **notebook.ipynb**.
 
-Selain itu, bisa dijalankan dengan virtual environment menggunakan conda
+Alternatively, it can be run using a virtual environment with **conda**:
 ```
 conda crate --name siudin python=3.9
 conda activate siudin
@@ -40,7 +40,7 @@ pip install requirements.txt
 jupyter-notebook
 ```
 
-bisa menggunakan pipenv
+You can also use **pipenv**:
 
 ```
 mkdir siudin
