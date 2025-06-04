@@ -9,6 +9,7 @@ Machine Learning models can be used to inform a content-based filtering approach
 - Sklearn
 - Math
 - TensorFlow
+- TensorFlow js
 - NumPy
 - Pandas
 - Matplotlib
