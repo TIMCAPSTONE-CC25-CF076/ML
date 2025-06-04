@@ -1,8 +1,9 @@
 # SIUDIN - Machine Learning
 Coding Camp Capstone Project 2025
 ## Description
-Machine Learning models can be used to inform a content-based filtering approach for its recommendation system.
+Machine Learning models can be leveraged to enhance a content-based filtering approach in the recommendation system. This approach analyzes the similarity and relevance of Education Level (Jenjang), Subject (Mata Pelajaran), Material (Materi), and Sub Material (Sub Materi) in relation to the user's learning preferences and targeted education stage. As a result, it delivers personalized learning content tailored to the user’s interests.
 ## Method
+Content-based Recommendation Systems with Neural Networks
 
 ## Tools
 - Python
@@ -30,6 +31,7 @@ In addition, we also created a mission dataset containing daily tasks that stude
 
 [Dataset Misi](https://docs.google.com/spreadsheets/d/1CapDuMNvtWG-Qnjn5O-e-Lun1x81o5knV9HNdCMUnjA/edit?gid=988267510#gid=988267510)
 ## How to Recommend
+When a user inputs their Education Level (Jenjang), Subject (Mata Pelajaran), Material (Materi), and Sub Material (Sub Materi), the model will present relevant content tailored to the user’s preferences, delivering engaging learning videos.
 ## Setup Environment
 This project uses the Google Colaboratory (Google Colab) IDE. Make sure to install the **requirements.txt** dependencies before running **notebook.ipynb**.
 
