@@ -34,8 +34,8 @@ Proyek ini menggunakan IDE Google Colaboratory (Google Colab). Pastikan juga unt
 
 Selain itu, bisa dijalankan dengan virtual environment menggunakan conda
 ```
-conda crate --name dropout python=3.9
-conda activate dropout
+conda crate --name siudin python=3.9
+conda activate siudin
 pip install requirements.txt
 jupyter-notebook
 ```
@@ -43,8 +43,8 @@ jupyter-notebook
 bisa menggunakan pipenv
 
 ```
-mkdir dropout
-cd dropout
+mkdir siudin
+cd siudin
 pipenv install
 pipenv shell
 pip install requirements.txt
